@@ -95,6 +95,11 @@ And that is exactly the first thing that you will do!
 
 ```{r}
 ### EXPLORE HERE ###
+
+### import BC_COVID_Cases
+library(readr)
+BC_COVID_Cases <- read_csv("BC_COVID_Cases.csv")
+
 ## First 6 rows of dataframe
 head(BC_COVID_Cases)
 head(vancouver_trees)
