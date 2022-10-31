@@ -591,7 +591,7 @@ vancouver_trees_2000_18 %>%
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 7))
 ```
 
-    ## Warning: Removed 4 rows containing missing values (geom_point).
+    ## Warning: Removed 3 rows containing missing values (geom_point).
 
 ![](mini-project-1_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 

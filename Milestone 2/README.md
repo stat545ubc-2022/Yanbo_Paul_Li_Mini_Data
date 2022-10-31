@@ -1,0 +1,1 @@
+This folder contains the rmd, md files for milestone 2, as well as the graph images for milestone 2.

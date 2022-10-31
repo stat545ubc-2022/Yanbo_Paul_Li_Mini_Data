@@ -1,0 +1,1 @@
+This folder contains the rmd, md files for milestone 1, as well as graph images and `BC_COVID_Cases.csv` dataset (used in part of my preliminary analysis for different datasets) for milestone 1.
