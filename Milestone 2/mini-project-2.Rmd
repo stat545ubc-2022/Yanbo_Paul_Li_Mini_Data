@@ -473,11 +473,11 @@ Write your model object from Task 3 to an R binary file (an RDS), and load it ag
 saveRDS(Task3_Q1,
          here::here(
          "output",
-         "height_level_diameter_ANOVA_model"))
+         "height_level_diameter_ANOVA_model.rds"))
 
 readRDS(here::here(
          "output",
-         "height_level_diameter_ANOVA_model"))
+         "height_level_diameter_ANOVA_model.rds"))
 
 
 ```
